@@ -1,0 +1,10 @@
+bind F12 "mine"
+bind Ctrl+F12 "mine"
+
+bind c mine_forward
+bind x prospect
+bind shift+c mine_up
+bind alt+c mine_down
+bind shift+x tunnel
+
+//TODO ADD TOOLS TO TOOLBELT

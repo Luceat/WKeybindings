@@ -1,0 +1,45 @@
+bind shift+a autorun
+bind shift+d toggle_climb
+bind shift+w climb_up
+bind shift+s climb_down
+bind ctrl+a activate
+bind v open
+bind shift+v close
+bind shift+r combine
+bind r take
+bind shift+t drop_as_pile
+bind t drop
+bind space "toggle mouselook"
+
+bind ctrl+w push
+bind ctrl+s pull
+bind ctrl+q turn_counterclockwise
+bind ctrl+e turn_clockwise
+
+bind Ctrl+F1 "exec wood.txt"
+bind Ctrl+F2 "exec mine.txt"
+bind Ctrl+F3 "exec dig.txt"
+bind Ctrl+F4 "exec forage.txt"
+bind Ctrl+F5 "exec farm.txt"
+bind Ctrl+F6 "exec animals.txt"
+bind Ctrl+F7 
+bind Ctrl+F8 
+bind Ctrl+F9 
+bind Ctrl+F10 
+bind Ctrl+F11 
+// Ctrl+F12 is used to show the current mode in the menu bar
+bind Ctrl+F12 ""
+
+bind Shift+F1 "exec fight.txt"
+bind Shift+F2 "exec carp.txt"
+bind Shift+F3 "exec smith.txt"
+bind Shift+F4 "exec leather.txt"
+bind Shift+F5 "exec tailor.txt"
+bind Shift+F6 "exec pottery.txt"
+bind Shift+F7 
+bind Shift+F8 
+bind Shift+F9 
+bind Shift+F10 
+bind ShiftF11 
+// Shift+F12 is used to show the current mode in the menu bar
+bind Shift+F12 ""

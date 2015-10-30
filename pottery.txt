@@ -1,0 +1,6 @@
+bind F12 "pottery"
+bind Ctrl+F12 "pottery"
+
+exec "imp.txt"
+
+//TODO ADD TOOLS TO TOOLBELT

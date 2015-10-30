@@ -1,0 +1,10 @@
+bind F12 "dig"
+bind Ctrl+F12 "dig"
+
+bind x pack
+bind c dig
+bind shift-c level
+bind shift-x flatten
+bind alt-c cultivate
+
+//TODO ADD TOOLS TO TOOLBELT

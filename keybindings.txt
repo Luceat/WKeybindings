@@ -1,0 +1,112 @@
+// This file contains your saved key bindings, DO NOT EDIT IT.
+// The contents are replaced with your active keybinds every time you quit the game.
+// If you want to add a new key binding, use bind in the game console instead.
+// Use autorun.txt for non-bind commands that should run on game start.
+
+// This file will be automatically created with default values if it is missing.
+// So if you ever manage to mess up this file, just delete it to get a clean one.
+bind Escape STOP_OR_MAIN_MENU
+bind 1 ACTIVATE_TOOL1
+bind 2 ACTIVATE_TOOL2
+bind 3 ACTIVATE_TOOL3
+bind 4 ACTIVATE_TOOL4
+bind 5 ACTIVATE_TOOL5
+bind 6 SPECIAL_MOVE1
+bind 7 SPECIAL_MOVE2
+bind 8 SPECIAL_MOVE3
+bind Ctrl+Shift+Tab PREVIOUS_WINDOW
+bind 9 SPECIAL_MOVE4
+bind Ctrl+Tab NEXT_WINDOW
+bind 0 SPECIAL_MOVE5
+bind Shift+Tab PREVIOUS_TAB
+bind Tab NEXT_TAB
+bind Q TURN_LEFT
+bind Shift+W CLIMB_UP
+bind Ctrl+T DROP_AS_PILE
+bind W MOVE_FORWARD
+bind E TURN_RIGHT
+bind Shift+R COMBINE
+bind R TAKE
+bind T DROP
+bind Ctrl+Q TURN_COUNTERCLOCKWISE
+bind Ctrl+W PUSH
+bind Shift+T DROP_AS_PILE
+bind Ctrl+E TURN_CLOCKWISE
+bind I "toggle inventory"
+bind Ctrl+R OPEN
+bind O MAIN_MENU
+bind P TOGGLE_CHARACTER
+bind Ctrl+A ACTIVATE
+bind Ctrl+S PULL
+bind Enter TOGGLE_CHAT
+bind A MOVE_LEFT
+bind Shift+S CLIMB_DOWN
+bind S MOVE_BACK
+bind Shift+A AUTORUN
+bind D MOVE_RIGHT
+bind Shift+D TOGGLE_CLIMB
+bind F MINE_FORWARD
+bind H "toggle wikisearch"
+bind Shift+X LEVEL
+bind Alt+C CULTIVATE
+bind X DIG
+bind C PACK
+bind Shift+V CLOSE
+bind V OPEN
+bind Shift+C FLATTEN
+bind B TOGGLE_CRAFTING
+bind N TOGGLE_CRAFTING_RECIPES
+bind M TOGGLE_MAP
+bind Multiply DEFEND_UPPER
+bind Ctrl+F2 "exec mine.txt"
+bind Space "toggle mouselook"
+bind Ctrl+F3 "exec dig.txt"
+bind Ctrl+F4 "exec forage.txt"
+bind Shift+F1 "exec fight.txt"
+bind F1 "toggle console"
+bind Ctrl+F5 "exec farm.txt"
+bind F2 "toggle skills"
+bind Shift+F3 "exec smith.txt"
+bind F3 "toggle inventory"
+bind Shift+F2 "exec carp.txt"
+bind F4 "toggle stats"
+bind Shift+F5 "exec tailor.txt"
+bind F5 "say /sleep"
+bind Ctrl+F1 "exec wood.txt"
+bind Shift+F4 "exec leather.txt"
+bind F6 "say /time"
+bind Ctrl+F10 "exec leather.txt"
+bind F7 "say /mission"
+bind Shift+F6 "exec pottery.txt"
+bind F8 "say /fl"
+bind F9 "toggle character"
+bind F10 "toggle gui"
+bind Ctrl+F6 "exec animals.txt"
+bind Ctrl+F7 "exec animals.txt"
+bind Ctrl+F8 "exec farm.txt"
+bind Numpad7 AIM_UPPER_LEFT
+bind Ctrl+F9 "exec smith.txt"
+bind Numpad8 AIM_UPPER_MIDDLE
+bind Numpad9 AIM_UPPER_RIGHT
+bind Subtract DEFEND_LOWER
+bind Numpad4 AIM_LEFT
+bind Numpad5 AIM_MIDDLE
+bind Numpad6 AIM_RIGHT
+bind Add DEFEND_RIGHT
+bind Numpad1 AIM_LOWER_LEFT
+bind Numpad2 AIM_LOWER_MIDDLE
+bind Numpad3 AIM_LOWER_RIGHT
+bind Numpad0 FOCUS
+bind Decimal SHIELD_BASH
+bind Ctrl+F11 "exec pottery.txt"
+bind F11 "quit"
+bind F12 "dig"
+bind Ctrl+F12 "dig"
+bind Divide DEFEND_LEFT
+bind Up MOVE_FORWARD
+bind Page_up TURN_UP
+bind Left TURN_LEFT
+bind Right TURN_RIGHT
+bind Down MOVE_BACK
+bind Page_down TURN_DOWN
+bind Insert STRAFE

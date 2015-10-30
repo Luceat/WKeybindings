@@ -1,0 +1,6 @@
+bind F12 "smith"
+bind Ctrl+F12 "smith"
+
+exec imp.txt
+
+//TODO ADD TOOLS TO TOOLBELT

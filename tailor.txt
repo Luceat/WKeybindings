@@ -1,0 +1,6 @@
+bind F12 "tailor"
+bind Ctrl+F12 "tailor"
+
+exec "imp.txt"
+
+//TODO ADD TOOLS TO TOOLBELT

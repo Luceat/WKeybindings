@@ -1,0 +1,9 @@
+bind F12 "animals"
+bind Ctrl+F12 "animals"
+
+bind x groom
+bind c feed
+bind shift+x tame
+bind shift+c breed
+
+//TODO ADD TOOLS TO TOOLBELT

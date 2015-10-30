@@ -1,0 +1,9 @@
+bind F12 "wood"
+bind Ctrl+F12 "wood"
+
+bind c cut_down
+bind x chop_up
+bind shift+c pick_sprout
+bind shift+x prune
+
+//TODO ADD TOOLS TO TOOLBELT

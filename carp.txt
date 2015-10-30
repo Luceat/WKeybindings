@@ -1,0 +1,6 @@
+bind F12 "carp"
+bind Ctrl+F12 "carp"
+
+exec "imp.txt"
+
+//TODO ADD TOOLS TO TOOLBELT

@@ -1,0 +1,11 @@
+bind F12 "forage"
+bind Ctrl+F12 "forage"
+
+bind x forage
+bind c botanize
+bind shift-x forage_resource
+bind shift-c botanize_resource
+bind alt-x gather
+bind alt-c pick_flowers
+
+//TODO ADD TOOLS TO TOOLBELT

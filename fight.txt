@@ -1,0 +1,9 @@
+bind F12 "fight"
+bind Ctrl+F12 "fight"
+
+bind c focus
+bind x shield_bash
+bind z no_target
+bind shift+z target
+
+//TODO ADD TOOLS TO TOOLBELT

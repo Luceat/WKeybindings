@@ -1,0 +1,9 @@
+bind F12 "farm"
+bind Ctrl+F12 "farm"
+
+bind x sow
+bind c farm
+bind shift+c harvest
+bind shift+x cultivate
+
+//TODO ADD TOOLS TO TOOLBELT

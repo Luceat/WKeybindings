@@ -1,0 +1,6 @@
+bind F12 "leather"
+bind Ctrl+F12 "leather"
+
+exec "imp.txt"
+
+//TODO ADD TOOLS TO TOOLBELT
